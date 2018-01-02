@@ -1,0 +1,7 @@
+F:\Coding\SaberInteractive\Serialize_Saber\Serialize_Saber\Serialize_Saber\bin\Debug\Serializer_Saber.exe.config
+F:\Coding\SaberInteractive\Serialize_Saber\Serialize_Saber\Serialize_Saber\bin\Debug\Serializer_Saber.exe
+F:\Coding\SaberInteractive\Serialize_Saber\Serialize_Saber\Serialize_Saber\bin\Debug\Serializer_Saber.pdb
+F:\Coding\SaberInteractive\Serialize_Saber\Serialize_Saber\Serialize_Saber\obj\Debug\Serializer_Saber.csprojResolveAssemblyReference.cache
+F:\Coding\SaberInteractive\Serialize_Saber\Serialize_Saber\Serialize_Saber\obj\Debug\Serializer_Saber.csproj.CoreCompileInputs.cache
+F:\Coding\SaberInteractive\Serialize_Saber\Serialize_Saber\Serialize_Saber\obj\Debug\Serializer_Saber.exe
+F:\Coding\SaberInteractive\Serialize_Saber\Serialize_Saber\Serialize_Saber\obj\Debug\Serializer_Saber.pdb
