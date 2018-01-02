@@ -13,7 +13,7 @@ namespace Serializer_Saber
 
         static void Main(string[] args)
         {
-            int nodeCount = 100;
+            int nodeCount = 5;
 
             ListNode head = new ListNode();
             ListNode tail = new ListNode();
