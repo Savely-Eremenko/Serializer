@@ -9,19 +9,20 @@ class ListNode
   public ListNode Next;  
   public ListNode Rand; // произвольный элемент внутри списка  
   public string Data;  
+} 
+
+class ListRand  
+{  
+public ListNode Head;  
+public ListNode Tail;  
+public int Count;  
+public void Serialize(FileStream s)  
+{  
 }  
-class ListRand
-{
-public ListNode Head;
-public ListNode Tail;
-public int Count;
-public void Serialize(FileStream s)
-{
-}
-public void Deserialize(FileStream s)
-{
-}
-}
+public void Deserialize(FileStream s)  
+{  
+}  
+}  
 
 Примечание: сериализация подразумевает сохранение и восстановление полной структуры
 списка, включая взаимное соотношение его элементов между собой. Формат
